@@ -1,0 +1,8 @@
+services:
+  eclipse-deposit:
+    build:
+      context: .
+    volumes:
+      - .:/app
+    stdin_open: true
+    tty: true

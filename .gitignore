@@ -8,3 +8,4 @@ lerna-debug.log*
 .pnpm-debug.log*
 private-key.txt
 evm-private-key.txt
+node_modules
